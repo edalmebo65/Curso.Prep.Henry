@@ -1,0 +1,20 @@
+	* Variables
+        Son datos numéricos en memoria que se utilizan para almacenar información cuyo valor puede cambiar 
+        según los requerimientos del programa.
+
+	* Strings
+        Son datos literales que se almacenan en momoria y que tienen algún significado para el programa, esta 
+        información también puede cambiar.
+	* Funciones (argumentos, `return`)
+        Son subprogramas encargados de realizar alguna tarea específica y que pueden retornar resultados, estos
+        subprogramas pueden llegar a necesitar información que se les puede ingresar a través de parámetros de
+        entrada "argumentos".
+	* Declaraciones `if`
+        Son instrucciones de bifurcación que se pueden utilizar en los programas para realizar alguna tarea, 
+        dependiendo del valor de verdad que arroje la comparación.  Si es verdadero, realiza la bifurcación por
+        el lado verdadero, y si el valor de verdad es falso, se realiza la bifurcación por el lado correspondiente
+        al valor falso.
+	* Valores booleanos (`true`, `false`)
+        Son valores de verdad, que se pueden asignar a variables o que se pueden obtener por comparación y que
+        permiten realizar bifurcaciones en los programas para realizar tareas dependiendo del valor que se obtenga.
+        
