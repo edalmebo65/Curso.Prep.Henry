@@ -1,0 +1,12 @@
+* `for`
+    Ciclo de iteración, que permite realizar una tarea n número de veces, hasta que se cumpla la condición de
+    repetición.
+
+* `&&`, `||`, `!`
+    Operadores lógicos que permiten realizar bifurcaciones en las operaciones de comparación.
+    &&: operador lógico "y" que permite realizar la bifurcación por verdadero si los dos datos a comparar son
+    verdaderos.
+    ||: operador lógico "o" que permite realizar la bifurcación por verdadero si uno o ambos datos a comparar
+    son verdaderos.
+    !: operador de negación, el cual permite cambiar el valor de verdad de un dato.  Si el dato es verdadero y
+    aplicamos el operador, el dato queda con valor negativo y viceversa. 
