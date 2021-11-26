@@ -1,0 +1,9 @@
+	* Arrays
+
+    Como su nombre lo indica, son arreglos de datos separados por un símbolo y cuya posición es representada por
+    un número que corresponde al índice de la ubicación del dato.
+    Estos arreglos son encapsulados en un espacio de memoria y se hace alusión a ellos por un nombre común a todos
+    los datos y se especifica cada uno de ellos por el índice.
+    Estos arreglos tienen métodos con los cuales se pueden realizar operaciones entre los datos y propiedades que
+    permiten determinar por ejemplo la cantidad de datos que se encuentran en el arreglo, anexar datos al comienzo
+    o al final del arreglo, eliminar datos, etc.
