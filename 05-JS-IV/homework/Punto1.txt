@@ -1,0 +1,14 @@
+	* Objetos
+        Colecciones de pares de datos (key/value) encapsuladas bajo el nombre del objeto, que guardan información
+        variada del objeto en cuestion. Dentro de esta información, podemos tener propiedades y métodos, que conforman
+        la información del objeto.
+	* Propiedades
+        Son los pares (key/value) que dan información característica del objeto.
+	* Métodos
+        Son funciones que realizan alguna operación sobre las propiedades del objeto y regresan un dato requerido.
+	* Bucle `for…in`
+        Es la forma de recorrer un arreglo de objetos.
+	* Notación de puntos vs notación de corchetes
+        Son dos formas de hacer alusión a las propiedades y los métodos del objeto.  
+        Notación punto: objeto.valor  y notación corchetes: objeto[valor], esta notación es utilizada tanto
+        para extraer la información del objeto como para asignar los valores a las propiedades.
