@@ -1,0 +1,8 @@
+* `prototype`
+    Es la manera que existe en JS de compartir los métodos para todos los objetos de la misma clase.  Ello permite
+    ahorrar espacio de memoria, al no tener que cargar el método el mismo número de veces que se crea un objeto.
+* _Constructors_ (de Clases)
+    Es el código que nos permite asignar valores a las propiedades y a los métodos de la clase y que se hereda
+    entre los diferentes objetos de la clase. Los objetos heredan estas propiedades y a través del prototipo es 
+    que se pueden crear los diferentes métodos para ser utilizados por los diferentes objetos de la misma clase.
+    
