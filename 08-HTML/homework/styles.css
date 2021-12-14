@@ -1,0 +1,14 @@
+h1 {color: darkolivegreen;}
+
+img {width: 400px}
+
+.thirdiv {width: 600px; height: 500px; background: darkorchid; padding: 50px; 
+    border-color: darkslateblue; border-style: dotted; border-width: thin;}
+
+#spanId {font-size: 18px; margin: 50px;}
+
+body { color: darkblue; font-size: medium;}
+
+.divClass {}
+
+#divId {}
